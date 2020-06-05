@@ -426,7 +426,7 @@ blockquote {
     }
 
     .alertbar input[type="submit"] {
-        border-radius: 3px !Important;
+        border-radius: 20px !Important;
     }
 
     .alertbar input[type="email"] {
@@ -595,7 +595,9 @@ ul.tags li a:hover {
     letter-spacing: 0.5px;
     cursor: pointer;
 }
-
+.alertbar input[type="submit"]:focus {
+outline: none;
+}
 .form-control::-webkit-input-placeholder {
     color: rgba(0, 0, 0, .5);
 }
@@ -900,4 +902,17 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+@media screen and (min-width:700px) {
+.column1 {
+   
+    float: left; 
+    width: 50%;
+}
+
+.column2 {
+   
+    float: left; 
+    width: 50%;
+}
 }

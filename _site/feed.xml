@@ -5,14 +5,14 @@
     <description>Jekyll template, Medium styled, free for bloggers.</description>
     <link>http://localhost:4000/3minreads/</link>
     <atom:link href="http://localhost:4000/3minreads/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jun 2020 02:32:50 +0530</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2020 02:32:50 +0530</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2020 22:50:27 +0530</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2020 22:50:27 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Daily Tweets</title>
-        <description>&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;column&quot; style=&quot;float: left; width: 50%;&quot;&gt;
+        <description>&lt;div class=&quot;row1&quot;&gt;
+  &lt;div class=&quot;column1&quot;&gt;
 
   &lt;blockquote class=&quot;twitter-tweet&quot; data-theme=&quot;light&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;OK, an important note for talented mid-career folks, when making job changes:&lt;br /&gt;&lt;br /&gt;Be extremely rigorous about your personal stack-rank between&lt;br /&gt;1. Title&lt;br /&gt;2. Money&lt;br /&gt;3. Scope&lt;br /&gt;&lt;br /&gt;You can lose a lot of potential Money if you aren’t crystal clear on what matters most to you between these 3&lt;br /&gt;👇🏽&lt;/p&gt;&amp;mdash; Shreyas Doshi (@shreyas) &lt;a href=&quot;https://twitter.com/shreyas/status/1268372416427786240?ref_src=twsrc%5Etfw&quot;&gt;June 4, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
@@ -28,7 +28,7 @@
 
   &lt;/div&gt;
 
-  &lt;div class=&quot;column&quot; style=&quot;float: left; width: 50%;&quot;&gt;
+  &lt;div class=&quot;column2&quot;&gt;
 
   &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The next Amazon competitor is likely going to look like a social or video app, not a shopping app. &lt;br /&gt;&lt;br /&gt;Thread👇&lt;/p&gt;&amp;mdash; Connie Chan (@conniechan) &lt;a href=&quot;https://twitter.com/conniechan/status/1266476997699493889?ref_src=twsrc%5Etfw&quot;&gt;May 29, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;br /&gt;

@@ -26,7 +26,7 @@ comments: false
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">3minreads</a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="">3minreads</a>.</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-warning">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-success">Subscribe</a>
 
