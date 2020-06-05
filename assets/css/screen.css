@@ -427,6 +427,7 @@ blockquote {
 
     .alertbar input[type="submit"] {
         border-radius: 20px !Important;
+        border-color: rgb(109, 74, 235);
     }
 
     .alertbar input[type="email"] {
@@ -582,7 +583,7 @@ ul.tags li a:hover {
 
 .alertbar input[type="submit"] {
     background-color: rgb(109, 74, 235);
-   
+    border-color: rgb(109, 74, 235);
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     font-size: 0.85rem;
