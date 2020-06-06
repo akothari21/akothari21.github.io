@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "http://localhost:4000/3minreads/about",
-    "title": "The team",
-    "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve 3minreads. Buy me a coffee Subscribe"
+    "title": "What is 3minreads?",
+    "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.   Our Vision: This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.   The Team:     Aditi Kothari     Product Manager at Bounce      I started 3minreads. in with     a vision to create and share     awesome content on product     management, tech, businessdesign              Follow       Nishit Bhatt      Product Manager at Flobiz    I started 3minreads. in with     a vision to create and share     awesome content on product     management, tech, businessdesign                    Follow   Why should you subscribe?Thank you for your support! Your donation helps me to maintain and improve 3minreads. Subscribe"
     }, {
     "id": 2,
     "url": "http://localhost:4000/3minreads/categories",
