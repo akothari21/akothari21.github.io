@@ -31,7 +31,7 @@ Ridiculous simplicity in monetization: Another product that was super-successful
 
 Simple products and even simpler branding. Tinder super like — you really like them. Tinder boost — Be exposed to more people.
 
-**No Mind product theory: **You don’t educate the customer, they have to come to the conclusion about what you’re selling them on their own. Give them something very simple, digestible, and achievable.
+**No Mind product theory:**You don’t educate the customer, they have to come to the conclusion about what you’re selling them on their own. Give them something very simple, digestible, and achievable.
 
 We live busy lives — schedules, routines, etc. No one wants your product, no one is looking for your product, it needs to find them.
 
@@ -40,7 +40,7 @@ How you find people: Ultrasimplicity. People are not going to give you attention
 
 Example Auto streaming, Autoplay. It’s passive consumption and you are able to go into a specific psychological state where you don’t have to process anything, you just let it come.
 
-**Cohorts of attention **
+**Cohorts of attention**
 
 TV: 2.5 hours, 1 session
 
