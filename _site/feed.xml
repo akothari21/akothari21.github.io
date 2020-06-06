@@ -5,12 +5,12 @@
     <description>Jekyll template, Medium styled, free for bloggers.</description>
     <link>http://localhost:4000/3minreads/</link>
     <atom:link href="http://localhost:4000/3minreads/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jun 2020 02:57:53 +0530</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2020 02:57:53 +0530</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2020 03:04:15 +0530</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2020 03:04:15 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Shishir Mehrotra - The Art and Science of Bundlingt</title>
+        <title>Shishir Mehrotra - The Art and Science of Bundling</title>
         <description>&lt;p&gt;Shishir is the founder and CEO of a company called &lt;a href=&quot;https://coda.io/&quot;&gt;Coda&lt;/a&gt;. Before that, he worked at Google on YouTube as VP of Product, Engineering, and UX for six years since 2008 (right after the YT acquisition).&lt;/p&gt;
 
 &lt;p&gt;Here is the terminology required to understand the article better.&lt;/p&gt;
@@ -19,9 +19,7 @@
 
 &lt;h2 id=&quot;different-types-of-fans&quot;&gt;Different types of fans&lt;/h2&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Superfans&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;1.Superfans&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -35,9 +33,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Casual fans&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;2.Casual fans&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -48,9 +44,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Non-fans&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;3.Non-fans&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -128,10 +122,10 @@ Person C: Kid is crying, oh there’s this happy meal with a toy, If I buy the t
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Article by Shishir: &lt;a href=&quot;https://coda.io/@shishir/four-myths-of-bundling&quot;&gt;https://coda.io/@shishir/four-myths-of-bundling&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Article by Shishir: &lt;a href=&quot;https://coda.io/@shishir/four-myths-of-bundling&quot;&gt;four-myths-of-bundling&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Invest like the Best Podcast: &lt;a href=&quot;https://open.spotify.com/episode/7zj5hXzYs6rDAzeARFW2J4?si=c3MTCEU5T1-aXtOjtddhcA&quot;&gt;https://open.spotify.com/episode/7zj5hXzYs6rDAzeARFW2J4?si=c3MTCEU5T1-aXtOjtddhcA&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Invest like the Best Podcast: &lt;a href=&quot;https://open.spotify.com/episode/7zj5hXzYs6rDAzeARFW2J4?si=c3MTCEU5T1-aXtOjtddhcA&quot;&gt;link here&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>

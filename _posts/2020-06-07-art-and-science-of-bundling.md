@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shishir Mehrotra - The Art and Science of Bundlingt"
+title:  "Shishir Mehrotra - The Art and Science of Bundling"
 author: nishit
 categories: [ Business, strategy, podcasts]
 image: assets/images/bundling.png
@@ -21,7 +21,7 @@ Here is the terminology required to understand the article better.
 
 
 
- 1. Superfans
+ 1.Superfans
 
 * They would pay the retail price for the product
 
@@ -29,13 +29,13 @@ Here is the terminology required to understand the article better.
 
 * Superfan businesses focus on providing value to the customer and monetize directly. Example uber — You pay after the ride.
 
-2. Casual fans
+ 2.Casual fans
 
 * Casual fans lack one of the above two criteria. 
 
 * Casual fan businesses include media and cable where you pay for a variety of services but are a super fan of only a few.
 
-3. Non-fans
+ 3.Non-fans
 
 * They have 0 of the above two categories.
 
@@ -102,6 +102,6 @@ A third business model will emerge for the casual fans — a subscription bundle
 
 **Sources**:
 
- 1. Article by Shishir: [https://coda.io/@shishir/four-myths-of-bundling](https://coda.io/@shishir/four-myths-of-bundling)
+ 1. Article by Shishir: [four-myths-of-bundling](https://coda.io/@shishir/four-myths-of-bundling)
 
- 2. Invest like the Best Podcast: [https://open.spotify.com/episode/7zj5hXzYs6rDAzeARFW2J4?si=c3MTCEU5T1-aXtOjtddhcA](https://open.spotify.com/episode/7zj5hXzYs6rDAzeARFW2J4?si=c3MTCEU5T1-aXtOjtddhcA)
+ 2. Invest like the Best Podcast: [link here](https://open.spotify.com/episode/7zj5hXzYs6rDAzeARFW2J4?si=c3MTCEU5T1-aXtOjtddhcA)
