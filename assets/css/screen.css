@@ -951,7 +951,8 @@ iframe {
   align-items: center;
   box-shadow: rgba(0, 0, 0, 0.7);
   color: white;
-  margin: 55px;
+  margin-bottom: 10px;
+  margin-right: 0px;
   width: 300px;
 }
 

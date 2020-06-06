@@ -30,4 +30,7 @@
 <url>
 <loc>http://localhost:4000/3minreads/category/podacsts/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/3minreads/category/twitter/</loc>
+</url>
 </urlset>

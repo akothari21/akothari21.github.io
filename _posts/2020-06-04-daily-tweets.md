@@ -2,7 +2,7 @@
 layout: tweet
 title:  "Daily Tweets"
 author: aditi
-categories: [ Product Management]
+categories: [ twitter]
 image: assets/images/tweetdisplay.png
 featured: false
 hidden: false
