@@ -2,10 +2,10 @@
 layout: post
 title:  "Brian Norgard(Tinder) on products, design, and future of audio."
 author: nishit
-categories: [ podacsts ]
-tags: [podacast, yellow]
+categories: [ podcasts ]
+tags: [podcast, yellow]
 image: assets/images/cheatcodes.png
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Brian Norgard - CPO tinder talks about Product, design, future of audio and No mind theory"
 featured: true
 hidden: true
 ---
