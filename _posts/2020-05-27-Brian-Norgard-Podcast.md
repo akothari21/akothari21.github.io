@@ -3,7 +3,6 @@ layout: post
 title:  "Brian Norgard(Tinder) on products, design, and future of audio."
 author: nishit
 categories: [ podcasts ]
-tags: [podacast, yellow]
 image: assets/images/cheatcodes.png
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
