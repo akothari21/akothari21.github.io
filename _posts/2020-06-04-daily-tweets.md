@@ -2,7 +2,7 @@
 layout: tweet
 title:  "Daily Tweets"
 author: aditi
-categories: [ twitter]
+categories: [twitter]
 image: assets/images/tweetdisplay.png
 featured: false
 hidden: false
