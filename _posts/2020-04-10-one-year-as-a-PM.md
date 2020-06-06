@@ -4,8 +4,6 @@ title:  "Learnings from one year into Product Management"
 author: aditi
 categories: [ Product Management]
 image: https://cdn-images-1.medium.com/max/4000/1*N6AWx-8V-Lui4oCGaaldXQ.jpeg
-toc: true
-beforetoc: "food, hhihi"
 tweet: <blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">OK, an important note for talented mid-career folks, when making job changes:<br><br>Be extremely rigorous about your personal stack-rank between<br>1. Title<br>2. Money<br>3. Scope<br><br>You can lose a lot of potential Money if you aren’t crystal clear on what matters most to you between these 3<br>👇🏽</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1268372416427786240?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 featured: true
 hidden: false

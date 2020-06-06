@@ -34,21 +34,23 @@ We all have busy lives - working jobs, taking care of our families and household
 </div>
 <br>
 <div class="descr">
-        I started 3minreads.in with
-         a vision to create and share 
-         awesome content on product 
-         management, tech, business
-design
+        Previously at Rapido. In my 
+        free time you can find me 
+        bookmarking articles on chrome, 
+        using readium to bypass the 
+        paywalled articles on medium 
+        or winning a few hackathons/working 
+        on a side project.
 </div>
 
    
 <ul class="social-icons">
-      <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      <li><a href="https://instagram.com/aditi_kothari_" target="_blank"><i class="fa fa-instagram"></i></a></li>
+      <li><a href="https://twitter.com/aditikothari_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/aditi-kothari/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
       
 </ul>
-<button class="btn1 draw-border"><a href="https://twitter.com/aditikothari_" style="color:white;">Follow</a></button>
+
     
 
 </div>
@@ -64,21 +66,23 @@ design
 </div>
 <br>
 <div class="descr">
-        I started 3minreads.in with
-         a vision to create and share 
-         awesome content on product 
-         management, tech, business
-design
+        Previously with Koinex. In my free 
+        time, you can find me reading, 
+        bookmarking threads on twitter, 
+        drinking sleepy owl coffee or 
+        trying to organize my life 
+        in notion.
+
 </div>
       
 
    
     <ul class="social-icons">
-      <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      <li><a href="https://instagram.com/bnishit19" target="_blank"><i class="fa fa-instagram"></i></a></li>
+      <li><a href="https://twitter.com/nishitbhatt" target="_blank"><i class="fa fa-twitter"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/nishit-bhatt/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
     </ul>
-    <button class="btn1 draw-border"><a href="https://twitter.com/nishitbhatt_" style="color:white;">Follow</a></button>
+   
 
   
   
@@ -98,7 +102,7 @@ design
 <div class="black-card"> 
 <h5 style="color:white;">Why should you subscribe?</h5>
 
-<p style="color:white;">Thank you for your support! Your donation helps me to maintain and improve 3minreads.</p>
+<p style="color:white;">Get every new article/summary delivered straight to your inbox as we hit publish and never miss out on the rare pieces of content that can change your life.</p>
 
 <a target="_blank" href="{{site.mailchimp-list}}" class="btn subs">Subscribe</a>
 </div>
