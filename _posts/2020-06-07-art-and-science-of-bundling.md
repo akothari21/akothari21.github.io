@@ -2,7 +2,7 @@
 layout: post
 title:  "Shishir Mehrotra - The Art and Science of Bundlingt"
 author: nishit
-categories: [ Business, strategy, podcast]
+categories: [ Business, strategy, podcasts]
 image: assets/images/bundling.png
 featured: true
 hidden: true
