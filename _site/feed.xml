@@ -5,9 +5,148 @@
     <description>Jekyll template, Medium styled, free for bloggers.</description>
     <link>http://localhost:4000/3minreads/</link>
     <atom:link href="http://localhost:4000/3minreads/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jun 2020 02:32:52 +0530</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2020 02:32:52 +0530</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2020 02:56:00 +0530</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2020 02:56:00 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Shishir Mehrotra - The Art and Science of Bundlingt</title>
+        <description>&lt;p&gt;Shishir is the founder and CEO of a company called &lt;a href=&quot;https://coda.io/&quot;&gt;Coda&lt;/a&gt;. Before that, he worked at Google on YouTube as VP of Product, Engineering, and UX for six years since 2008 (right after the YT acquisition).&lt;/p&gt;
+
+&lt;p&gt;Here is the terminology required to understand the article better.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/5372/1*ROppwhj258MG4IZ_-ckFFA.png&quot; alt=&quot;Source: [https://coda.io/@shishir/four-myths-of-bundling](https://coda.io/@shishir/four-myths-of-bundling)&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;different-types-of-fans&quot;&gt;Different types of fans&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Superfans&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;They would pay the retail price for the product&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They have the required activation energy to go find it out on their own.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Superfan businesses focus on providing value to the customer and monetize directly. Example uber — You pay after the ride.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Casual fans&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Casual fans lack one of the above two criteria.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Casual fan businesses include media and cable where you pay for a variety of services but are a super fan of only a few.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Non-fans&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;They have 0 of the above two categories.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In Non-fan businesses, the product is delivered in the same way but the monetization is not direct. Example: Add supported businesses/social networks.&lt;/p&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;If you sell a product a-la-carte, you only get the superfans and miss out on casual ones.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spotify converted music from a superfan business to a casual fan business. Previously people used to buy records from stores or pay $ 0.99 on iTunes for a song that they wanted to listen to. Now they have the entire bundle of things they are casual fans of. Spotify also sells cross bundles with Hulu.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-4-myths-of-bundling&quot;&gt;&lt;strong&gt;The 4 Myths of Bundling&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Myth #1: Bundling is bad for consumers as well as providers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Truth&lt;/strong&gt;: By bundling you create value in two ways: the providers get access to and revenue from casual fans and consumers get access to products they might become superfans of.&lt;/p&gt;
+
+&lt;p&gt;Example: Spotify vs iTunes. Earlier on iTunes, you’d buy only songs or categories of songs you were super interested in. Now due to having everything in a Spotify bundle, you also start listening to other types of music: English songs, instrumental, lo-fi beats for studying, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Myth #2: Revenue from bundles should be allocated based on usage&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Truth&lt;/strong&gt;: The fairest way to distribute revenue to providers in a bundle is by Marginal churn contribution.&lt;/p&gt;
+
+&lt;p&gt;Example: In a cable bundle, ESPN and History Channel were getting almost the same amount of usage. Yet, the bundler paid both of them differently. History Channel can get from $0.20-$0.40 per month per subscriber, while ESPN collects $4–6 per month per subscriber(~20x more).&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The best way to distribute money to provider X within a bundle is to ask “if I were to remove X from the bundle, how many people would churn?”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you believe this framework, then the reason ESPN would receive ~20x the amount of the History Channel is that &lt;strong&gt;removing ESPN from the bundle would theoretically cause roughly 20x the number of subscribers to churn&lt;/strong&gt; as would removing History Channel from the bundle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Myth #3: Bundles will always feel like a rip-off to consumers since they represent a lack of choice&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Truth&lt;/strong&gt;: For a Consumer to properly value a bundle, there must be a transparent (and reasonable) a-la-carte price for each of the products in the bundle.&lt;/p&gt;
+
+&lt;p&gt;McDonald’s example:&lt;/p&gt;
+
+&lt;p&gt;Person A: I want the big mac and I want the fries, If I buy the 2, the drink is free. 
+Person B: I want the fries and I want the drink and if I buy both, the big mac is free
+Person C: Kid is crying, oh there’s this happy meal with a toy, If I buy the toy, the entire meal is free.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In this case, everyone’s looking at the same board and the same package differently. And to everyone, it seems like a good deal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There’s one fundamental reason why people think bundles are ripoffs when they’re not, and that reason is: &lt;strong&gt;for a consumer to properly value a bundle there must be a transparent and reasonable a-la-carte price for every product in the bundle&lt;/strong&gt;. This is the reason why cable industries bundling is not working: people don’t know how much they’d have to pay to watch ESPN alone.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;People’s ability to understand a bundle starts from their ability to understand its components.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Myth #4: The best bundles are narrow and have very similar products so they make sense to consumers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Truth&lt;/strong&gt;: The best bundle is one that minimizes the SuperFan overlap and maximizes CasualFan overlap.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*-2GvB6LYbV7THlkanz8J4A.png&quot; alt=&quot;credits: [https://coda.io/@shishir/four-myths-of-bundling/myth-4-6](https://coda.io/@shishir/four-myths-of-bundling/myth-4-6)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It shows from the bundler’s perspective that Product C is likely adding new customers to BundleY. From a consumer’s perspective, if you are a SuperFan of A or B or C, the bundle is likely a good deal — e.g. if you’re a SuperFan of A, then you “pay for A and get B and C for free”.&lt;/p&gt;
+
+&lt;h2 id=&quot;thoughts-on-netflix-as-a-bundle-and-subscription&quot;&gt;&lt;strong&gt;Thoughts on Netflix as a bundle and subscription&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Netflix kept its price constant for a very long time. By holding price constant, they forced themselves to think about their only plan to growth: subscriber growth and that was by making the bundle much more valuable and maximizing the casual fan overlap. Netflix did that by adding original shows.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Subscription has economies of scale built-in. You can create something once and sell it to the next customer for close to nothing&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;thoughts-on-the-future-of-bundling&quot;&gt;Thoughts on the future of bundling&lt;/h2&gt;
+
+&lt;p&gt;The bundle of the future will be larger and more diverse than we have today. They’ll cover products we’d have never imagined put together — like healthcare and dry cleaning maybe.&lt;/p&gt;
+
+&lt;p&gt;A third business model will emerge for the casual fans — a subscription bundle business model.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Article by Shishir: &lt;a href=&quot;https://coda.io/@shishir/four-myths-of-bundling&quot;&gt;https://coda.io/@shishir/four-myths-of-bundling&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Invest like the Best Podcast: &lt;a href=&quot;https://open.spotify.com/episode/7zj5hXzYs6rDAzeARFW2J4?si=c3MTCEU5T1-aXtOjtddhcA&quot;&gt;https://open.spotify.com/episode/7zj5hXzYs6rDAzeARFW2J4?si=c3MTCEU5T1-aXtOjtddhcA&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 07 Jun 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/3minreads/art-and-science-of-bundling/</link>
+        <guid isPermaLink="true">http://localhost:4000/3minreads/art-and-science-of-bundling/</guid>
+        
+        
+        <category>Business</category>
+        
+        <category>strategy</category>
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Daily Tweets</title>
