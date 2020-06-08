@@ -18,7 +18,7 @@ mainheading: Breaking into Product Management
     <h2><span>Who can attend?</span></h2>
 </div>
 
-<p>Someone who has the burning desire to become a PM! Who is willing to take this thing as a P0 in their life for the next 2-3 months</p>
+<p>Someone who has the burning desire to become a PM! Someone who is willing to take this thing as a P0 in their life for the next 2-3 months</p>
 <div class="section-title">
     <h2><span>The schedule</span></h2>
 </div>
