@@ -130,7 +130,7 @@ We all have busy lives - working jobs, taking care of our families and household
 
 <p style="color:white;">Get to know about what product management looks like in real life with hands on sessions. Learn through practice and not theory. Come along to solve some real case studies learn PM by understanding each of the verticals product management is made of.</p>
 
-<a target="_blank" href="{{site.mailchimp-list}}" class="btn subs">Register</a>
+<a target="_blank" href="https://forms.gle/UNkA11nPxBFdQBbRA" class="btn subs">Register</a>
 </div>
 </div>
 </div>
