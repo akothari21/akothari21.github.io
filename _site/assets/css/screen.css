@@ -908,13 +908,14 @@ iframe {
 .column1 {
    
     float: left; 
-    width: 50%;
+    width: 49%;
+    margin-right: 15px;
 }
 
 .column2 {
    
     float: left; 
-    width: 50%;
+    width: 49%;
 }
 }
 
