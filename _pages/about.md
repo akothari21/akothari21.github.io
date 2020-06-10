@@ -6,7 +6,7 @@ comments: false
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8" style="overflow-x:auto">
+<div class="col-md-8" style="overflow-x:hidden">
 
 <p>3 minute reads is our attempt to curate, simplify and summarize some timeless books, videos, blogs and podcasts about product, design, business, strategy and investing and provide it in an easy to read 3-minute article.</p>
 <div class="section-title">

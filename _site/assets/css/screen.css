@@ -909,7 +909,7 @@ iframe {
    
     float: left; 
     width: 49%;
-    margin-right: 15px;
+    
 }
 
 .column2 {
@@ -918,7 +918,21 @@ iframe {
     width: 49%;
 }
 }
-
+@media screen and (min-width:700px) {
+    .column3 {
+       
+        float: left; 
+        width: 49%;
+        margin-right: 15px;
+       
+    }
+    
+    .column4 {
+       
+        float: left; 
+        width: 49%;
+    }
+    }
 .black-card{
     background-color: rgb(0, 0, 0);
     padding: 20px;

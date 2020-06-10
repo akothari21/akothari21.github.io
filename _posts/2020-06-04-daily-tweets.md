@@ -13,7 +13,7 @@ excerpt: "Find best tweets about tech, products, business, design and lots more 
  
 
 <div class="row">
-  <div class="column1">
+  <div class="column3">
 
   <blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">OK, an important note for talented mid-career folks, when making job changes:<br><br>Be extremely rigorous about your personal stack-rank between<br>1. Title<br>2. Money<br>3. Scope<br><br>You can lose a lot of potential Money if you aren’t crystal clear on what matters most to you between these 3<br>👇🏽</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1268372416427786240?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -29,7 +29,7 @@ excerpt: "Find best tweets about tech, products, business, design and lots more 
 
   </div>
 
-  <div class="column2">
+  <div class="column4">
 
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The next Amazon competitor is likely going to look like a social or video app, not a shopping app. <br><br>Thread👇</p>&mdash; Connie Chan (@conniechan) <a href="https://twitter.com/conniechan/status/1266476997699493889?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
