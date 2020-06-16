@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is this session about?
-permalink: /become-a-pm
+permalink: /pm101
 comments: false
 mainheading: Breaking into Product Management
 ---
