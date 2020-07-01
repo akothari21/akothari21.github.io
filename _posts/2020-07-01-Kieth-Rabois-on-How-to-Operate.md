@@ -5,7 +5,7 @@ author: nishit
 categories: [ Business, strategy, podcasts]
 image: https://cdn-images-1.medium.com/max/4844/1*GoH8M_3-DyX5zkxmpasi0Q.png
 featured: false
-hidden: true
+hidden: false
 ---
 
 
