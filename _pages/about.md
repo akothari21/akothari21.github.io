@@ -57,7 +57,7 @@ We all have busy lives - working jobs, taking care of our families and household
 </div>
 <div class="column1">
  <div class="card1">
-    <img src="https://media-exp1.licdn.com/dms/image/C5103AQF_Iqbl_-VZgw/profile-displayphoto-shrink_800_800/0?e=1596672000&v=beta&t=7bYt7U1RoV3hOS0BgU1yhNG5sMjS1wudIqVK_ztdR2I" alt="Person" class="card__image">
+    <img src="https://pbs.twimg.com/profile_images/1067542950781939712/I-0XM7sm_400x400.jpg" alt="Person" class="card__image">
     <p class="card__name">Nishit Bhatt</p>
   
 
